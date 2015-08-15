@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+group = 'goos'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'commons-lang:commons-lang:2.4'
+    compile 'commons-io:commons-io:1.4'
+    compile 'jivesoftware:smack:3.1.0'
+}

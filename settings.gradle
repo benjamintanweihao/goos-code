@@ -1,0 +1,1 @@
+include 'java-app', 'java-tests', 'junit-windowlicker-tests'
