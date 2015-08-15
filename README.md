@@ -1,4 +1,4 @@
-This is the support code for the Growing Object-Oriented Software book.
+This is the supporting code for the Growing Object-Oriented Software book.
 
 # Prerequisites
 
